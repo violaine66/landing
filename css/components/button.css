@@ -1,0 +1,12 @@
+.btn-reservation {
+  color: white;
+  padding: 8px 24px;
+  border-radius: 7px;
+  background: #670BFF;
+  transition: 0.3s;
+}
+
+.btn-reservation:hover {
+  background: #efebf5;
+  color: #670BFF;
+}
